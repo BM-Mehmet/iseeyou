@@ -1,6 +1,6 @@
 ## Açıklama
 
-Bu script, Ubuntu 24.04 LTS uzerinde Zabbix 7.0 LTS'in otomatik kurulumunu gerceklestirir. Kurulum asagidaki bilesenleri icerir:
+Bu script, Ubuntu 24.04 LTS üzerinde Zabbix 7.0 LTS'in otomatik kurulumunu gerçeklestirir. Kurulum aşağıdaki bileşenleri içerir:
 
 - Zabbix Server 7.0 LTS
 - PostgreSQL 16 (Veritabani)
