@@ -13,7 +13,7 @@ Bu script, Ubuntu 24.04 LTS uzerinde Zabbix 7.0 LTS'in otomatik kurulumunu gerce
 
 Script'i aşağıdaki komutla çalıştırın:
 
-1. ```bash
+```bash
    sudo bash iseeyou.sh
-
+```
 NOT: Script kusursuz değil manuel müdehale gerekebilir.
