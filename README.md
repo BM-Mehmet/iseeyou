@@ -16,4 +16,8 @@ Script'i aşağıdaki komutla çalıştırın:
 ```bash
    sudo bash iseeyou.sh
 ```
-NOT: Script kusursuz değil manuel müdehale gerekebilir.
+Değişiklik yapmadan direk kuruluma başlamak için aşağıdaki komutu kullanabilirsiniz:
+```bash
+bash <(curl -s https://raw.githubusercontent.com/BM-Mehmet/iseeyou/main/iseeyou.sh) 
+```
+NOT: Script kusursuz değildir manuel müdehale gerekebilir.
