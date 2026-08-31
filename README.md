@@ -18,6 +18,6 @@ Script'i aşağıdaki komutla çalıştırın:
 ```
 Değişiklik yapmadan direk kuruluma başlamak için aşağıdaki komutu kullanabilirsiniz:
 ```bash
-sudo bash <(curl -s https://raw.githubusercontent.com/BM-Mehmet/iseeyou/main/iseeyou.sh) 
+bash <(curl -s https://raw.githubusercontent.com/BM-Mehmet/iseeyou/main/iseeyou.sh) 
 ```
 NOT: Script kusursuz değildir manuel müdehale gerekebilir.
