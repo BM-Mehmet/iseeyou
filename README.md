@@ -14,10 +14,18 @@ Bu script, Ubuntu 24.04 LTS üzerinde Zabbix 7.0 LTS'in otomatik kurulumunu ger�
 Script'i aşağıdaki komutla çalıştırın:
 
 ```bash
-   sudo bash iseeyou.sh
+sudo bash iseeyou.sh
 ```
 Değişiklik yapmadan direk kuruluma başlamak için aşağıdaki komutu kullanabilirsiniz:
 ```bash
 bash <(curl -s https://raw.githubusercontent.com/BM-Mehmet/iseeyou/main/iseeyou.sh) 
 ```
-NOT: Script kusursuz değildir manuel müdehale gerekebilir.
+
+NOT: Script kusursuz değildir manuel müdehale gerekebilir. 
+
+Kaldırmak için:
+```bash 
+sudo bash uninstall.sh
+``` 
+
+Kaldırma scripti agresif şekilde Zabbix'i sistemden temizlemektedir çalıştırmadan önce scripti kontrol edip silinmesini istemediğiniz bir şey varsa lütfen yedekleyin ya da kaldırma scriptinden silin. 
